@@ -1,0 +1,53 @@
+Comentarios
+<!-- C --> Comantario HTML (c é o comentario)
+// Unica linha
+/* Mais de uma
+linha de código
+*/
+
+Variavel
+
+criar uma variavel utiliza a palavra var/ let
+identificadores podem começar com letras, $ ou _
+Não pode começar com numeros
+É possivel usar letras ou numeros
+É possivel usar simbolos ou acentos
+Não pode conter espaços
+Não pode conter palavras reservadas
+
+Concatenação é ultilizado o + ou ${}
+Number.parseInt(n)
+Number.parseFloat(n)
+Abrir link <a href="A">B</a> : A é a URL que direciona para o outro site e
+B é o texto clicável apresentado ao usuário.
+
+Criar tabela 
+<table>
+  <tr>
+    <th>A</th>
+    <th>B</th>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>B1</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>B2</td>
+  </tr>
+</table>
+
+Listas aninhadas
+<ul>
+  <li>A</li>
+  <li>B
+    <ul>
+      <li>B1</li>
+      <li>B2</li>
+      <li>B3</li>
+    </ul>
+  </li>
+  <li>C</li>
+</ul>
+
+
